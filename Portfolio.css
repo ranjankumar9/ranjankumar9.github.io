@@ -258,6 +258,20 @@ textarea{
 #contact>a{
     color: white;
     font-size: 80px;
+    
+}
+
+.Git{
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+}
+.github{
+    margin-top: 20px;
+    text-align: center;
+}
+.github>img{
+    margin-top: 20px;
 }
 
 @media screen and (max-width: 920px){
