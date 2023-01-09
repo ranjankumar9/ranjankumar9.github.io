@@ -199,7 +199,17 @@ body{
 }
 .pro>div>img{
     width: 100%;
+    float: left;
+    position: relative;
+    background: #000000;
+    overflow: hidden;
+    height: 200px;
+    transition: 500ms;
 }
+.pro>div>img:hover{
+    transform: scale(0.5);
+}
+
 #contact{
     text-align: center;
     color:white;
