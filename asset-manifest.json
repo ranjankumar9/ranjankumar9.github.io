@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3ad10b6.css",
-    "main.js": "/static/js/main.0bf56d4e.js",
+    "main.css": "/static/css/main.3f062721.css",
+    "main.js": "/static/js/main.3f54ecf7.js",
     "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
     "static/media/kindmeal.png": "/static/media/kindmeal.4aad9523492a5a41d85b.png",
     "static/media/Lyst.png": "/static/media/Lyst.0441d8dcf34b26b5ca72.png",
     "static/media/healthcart.png": "/static/media/healthcart.6dce726bfb568cb0987b.png",
     "static/media/bellavita.png": "/static/media/bellavita.048d1efed070cb89aeec.png",
     "static/media/Ranjan_img.jpg": "/static/media/Ranjan_img.d3f2063904f8f6b6495e.jpg",
-    "static/media/fp05_020-Ranjan-Kumar-Resume.pdf": "/static/media/fp05_020-Ranjan-Kumar-Resume.53490099305ce058f9bf.pdf",
     "index.html": "/index.html",
-    "main.f3ad10b6.css.map": "/static/css/main.f3ad10b6.css.map",
-    "main.0bf56d4e.js.map": "/static/js/main.0bf56d4e.js.map",
+    "main.3f062721.css.map": "/static/css/main.3f062721.css.map",
+    "main.3f54ecf7.js.map": "/static/js/main.3f54ecf7.js.map",
     "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3ad10b6.css",
-    "static/js/main.0bf56d4e.js"
+    "static/css/main.3f062721.css",
+    "static/js/main.3f54ecf7.js"
   ]
 }
