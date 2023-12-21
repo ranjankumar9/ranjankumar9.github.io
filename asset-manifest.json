@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.86a96b49.css",
-    "main.js": "/static/js/main.9f3f6164.js",
+    "main.css": "/static/css/main.9fb9d8f8.css",
+    "main.js": "/static/js/main.0f7e4480.js",
     "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
     "static/media/kindmeal.png": "/static/media/kindmeal.4aad9523492a5a41d85b.png",
     "static/media/Lyst.png": "/static/media/Lyst.0441d8dcf34b26b5ca72.png",
     "static/media/healthcart.png": "/static/media/healthcart.6dce726bfb568cb0987b.png",
-    "static/media/bellavita.png": "/static/media/bellavita.048d1efed070cb89aeec.png",
+    "static/media/bellavita.png": "/static/media/bellavita.f83e4331929cb51ec994.png",
     "static/media/Ranjan_img.jpg": "/static/media/Ranjan_img.d3f2063904f8f6b6495e.jpg",
+    "static/media/kfc.png": "/static/media/kfc.bfe6413e73b2d3356ba9.png",
     "index.html": "/index.html",
-    "main.86a96b49.css.map": "/static/css/main.86a96b49.css.map",
-    "main.9f3f6164.js.map": "/static/js/main.9f3f6164.js.map",
+    "main.9fb9d8f8.css.map": "/static/css/main.9fb9d8f8.css.map",
+    "main.0f7e4480.js.map": "/static/js/main.0f7e4480.js.map",
     "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86a96b49.css",
-    "static/js/main.9f3f6164.js"
+    "static/css/main.9fb9d8f8.css",
+    "static/js/main.0f7e4480.js"
   ]
 }
